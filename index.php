@@ -16,7 +16,7 @@
         display: flex;
         align-items: center;
         flex-direction: column;
-        background: linear-gradient(to right, rgb(39, 39, 39), rgba(53, 53, 53, 0)), url('http://www.playmodes.com/wp-content/uploads/2017/04/uoc_nuevo_logo.jpg');
+        background: linear-gradient(to right, rgb(39, 39, 39), rgba(53, 53, 53, 0)), url('http://curiouspost.com/wp-content/uploads/2017/01/sql-injection.jpg');
         background-size: cover;
 		padding-top: 100px;
         justify-content: top;
